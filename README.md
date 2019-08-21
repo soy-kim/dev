@@ -2,14 +2,12 @@
 1. install to VSCode
 
 2. inatall to extentions
- 1) for Spring
+ - for Spring
   - Spring Boot Extension Pack
   - Spring Initializr Java Support
- 2) for Java
+ - for Java
   - Java Extension Pack
- 3) Server
-  - Tomcat for Java
- 4) for GitHub
+ - for GitHub
   - GitLens
   - Git History
 
@@ -21,8 +19,8 @@
 
 
 
- ** Troubleshooting
- * Build failed, do you want to continue?
- 1. Open the command palette (F1)
- 2. select Java: Clean the Java language server workspace
- 3. click Restart and delete
+# Troubleshooting
+ 1. Build failed, do you want to continue?
+  - Open the command palette (F1)
+  - select Java: Clean the Java language server workspace
+  - click Restart and delete
